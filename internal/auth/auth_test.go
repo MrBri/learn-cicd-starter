@@ -50,4 +50,3 @@ func TestGetAPIKeySuccess(t *testing.T) {
 		t.Errorf("Expected API key '%s', got '%s'", expectedAPIKey, apiKey)
 	}
 }
-
