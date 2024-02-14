@@ -1,3 +1,6 @@
+![code coverage badge](https://github.com/mrbri/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+
+
 # learn-cicd-starter (Notely)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
@@ -5,6 +8,8 @@ This repo contains the starter code for the "Notely" application for the "Learn 
 ## Local Development
 
 Make sure you're on Go version 1.20+.
+
+Using the chi web framework
 
 Create a `.env` file in the root of the project with the following contents:
 
